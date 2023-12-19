@@ -1,0 +1,6 @@
+@BackendLoadBalancer_HostAddress = http://localhost:5045
+
+GET {{BackendLoadBalancer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

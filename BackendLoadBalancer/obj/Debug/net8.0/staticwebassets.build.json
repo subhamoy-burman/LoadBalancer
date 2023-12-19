@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ioxvFqfVQ9JPKIBlduoMJeJJayPy5jXYD2WjaIA6KTM=",
+  "Source": "BackendLoadBalancer",
+  "BasePath": "_content/BackendLoadBalancer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+@Backend.Three_HostAddress = http://localhost:5062
+
+GET {{Backend.Three_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Backend.Three_HostAddress}}/todos/1
+Accept: application/json
+
+###

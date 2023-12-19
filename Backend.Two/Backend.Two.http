@@ -1,0 +1,11 @@
+@Backend.Two_HostAddress = http://localhost:5002
+
+GET {{Backend.Two_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Backend.Two_HostAddress}}/todos/1
+Accept: application/json
+
+###
